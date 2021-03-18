@@ -1,0 +1,11 @@
+#globe {
+  float: left;
+  size: 10%;
+  height: 100px;
+  width: 100px;
+}
+
+.sidebar {
+  float: left;
+  margin: auto;
+}
